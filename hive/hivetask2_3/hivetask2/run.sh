@@ -1,1 +1,0 @@
-hive -f req.hql
